@@ -1,5 +1,11 @@
 ### Hi, my name is Lucas. How are you? 👋
 
+Programming since 2015, I graduated in Computer Engineering from the Universidade Federal do Rio Grande in early 2021, and recently completed a Master's degree also in Computer Engineering.
+
+During the latter part of my undergraduate studies and throughout the Master's program, I worked as a Researcher in the development of a analytics tool for the [Petrobras SA](https://petrobras.com.br/). My final dissertation focused on resource and performance analysis in training of Graph Neural Networks.
+
+Over the last three years, I've also worked as a Full-Stack Engineer at [MBOCHIP](https://mbochip.com/), developing systems and interfaces for the financial market.
+
 <!--
 **luucasrb/luucasrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
